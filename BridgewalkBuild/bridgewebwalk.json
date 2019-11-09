@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Bridgewalk",
+"dataUrl": "bridgewebwalk.data.unityweb",
+"wasmCodeUrl": "bridgewebwalk.wasm.code.unityweb",
+"wasmFrameworkUrl": "bridgewebwalk.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "bridgewebwalk.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
